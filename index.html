@@ -3,76 +3,503 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Jmath Studio</title>
+
+  <title>Jmath Studio — Games & Math Learning</title>
+  <meta
+    name="description"
+    content="jmath Studio creates puzzle games and interactive math learning experiences."
+  />
+
   <style>
+    :root {
+      --bg: #07090c;
+      --surface: #0d1117;
+      --surface-hover: #121821;
+      --line: #222a35;
+      --text: #f5f7fa;
+      --muted: #9aa7b6;
+      --blue: #74b9ff;
+      --max: 1180px;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
     body {
       margin: 0;
-      background: #000;
-      color: #fff;
-      font-family: Arial, sans-serif;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      min-height: 100vh;
+      background: var(--bg);
+      color: var(--text);
+      font-family:
+        Inter,
+        -apple-system,
+        BlinkMacSystemFont,
+        "Segoe UI",
+        sans-serif;
+      -webkit-font-smoothing: antialiased;
     }
+
+    a {
+      color: inherit;
+    }
+
     .wrap {
-      max-width: 760px;
-      padding: 40px 24px;
-      text-align: center;
+      width: min(calc(100% - 48px), var(--max));
+      margin: 0 auto;
     }
+
+    /* Header */
+
+    .header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      min-height: 82px;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .brand {
+      font-size: 19px;
+      font-weight: 800;
+      text-decoration: none;
+      letter-spacing: -0.02em;
+    }
+
+    .nav {
+      display: flex;
+      gap: 28px;
+    }
+
+    .nav a {
+      color: var(--muted);
+      font-size: 15px;
+      font-weight: 600;
+      text-decoration: none;
+    }
+
+    .nav a:hover {
+      color: var(--text);
+    }
+
+    /* Hero */
+
+    .hero {
+      padding: 118px 0 108px;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .eyebrow {
+      margin: 0 0 22px;
+      color: var(--blue);
+      font-size: 14px;
+      font-weight: 800;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+    }
+
     h1 {
-      font-size: 56px;
-      margin-bottom: 20px;
+      max-width: 850px;
+      margin: 0;
+      font-size: clamp(54px, 8vw, 96px);
+      line-height: 0.98;
+      letter-spacing: -0.065em;
     }
-    p {
-      font-size: 24px;
-      line-height: 1.6;
-      color: #d0d0d0;
+
+    .hero-copy {
+      max-width: 680px;
+      margin: 32px 0 0;
+      color: var(--muted);
+      font-size: clamp(19px, 2vw, 23px);
+      line-height: 1.55;
     }
+
+    /* Sections */
+
     .section {
-      margin-top: 40px;
+      padding: 96px 0;
+      border-bottom: 1px solid var(--line);
     }
-    a.button {
-      display: inline-block;
-      margin-top: 20px;
-      padding: 16px 28px;
-      border-radius: 12px;
-      background: #ffffff;
-      color: #000;
-      text-decoration: none;
-      font-size: 22px;
-      font-weight: bold;
+
+    .section-head {
+      display: flex;
+      align-items: end;
+      justify-content: space-between;
+      gap: 32px;
+      margin-bottom: 42px;
     }
-    .links a {
-      color: #9fd3ff;
+
+    .section-head h2 {
+      margin: 0;
+      font-size: clamp(36px, 5vw, 56px);
+      letter-spacing: -0.045em;
+    }
+
+    .section-head p {
+      max-width: 480px;
+      margin: 0;
+      color: var(--muted);
+      line-height: 1.6;
+    }
+
+    /* Project cards */
+
+    .games {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 20px;
+    }
+
+    .card {
+      display: flex;
+      min-height: 360px;
+      flex-direction: column;
+      justify-content: space-between;
+      padding: 38px;
+      overflow: hidden;
+      border: 1px solid var(--line);
+      border-radius: 24px;
+      background: var(--surface);
       text-decoration: none;
-      margin: 0 10px;
-      font-size: 20px;
+      transition:
+        transform 180ms ease,
+        border-color 180ms ease,
+        background 180ms ease;
+    }
+
+    .card:hover {
+      transform: translateY(-3px);
+      border-color: #3a4656;
+      background: var(--surface-hover);
+    }
+
+    .card-type {
+      color: var(--muted);
+      font-size: 13px;
+      font-weight: 800;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+    }
+
+    .card h3 {
+      margin: 22px 0 14px;
+      font-size: clamp(32px, 4vw, 46px);
+      line-height: 1;
+      letter-spacing: -0.045em;
+    }
+
+    .card p {
+      max-width: 480px;
+      margin: 0;
+      color: var(--muted);
+      font-size: 18px;
+      line-height: 1.55;
+    }
+
+    .card-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      margin-top: 48px;
+      font-size: 16px;
+      font-weight: 800;
+    }
+
+    .card-link span {
+      transition: transform 180ms ease;
+    }
+
+    .card:hover .card-link span {
+      transform: translateX(4px);
+    }
+
+    /* Math */
+
+    .math-card {
+      min-height: 300px;
+    }
+
+    .math-card h3 {
+      max-width: 720px;
+    }
+
+    /* About */
+
+    .about-grid {
+      display: grid;
+      grid-template-columns: 0.8fr 1.2fr;
+      gap: 80px;
+    }
+
+    .about-grid h2 {
+      margin: 0;
+      font-size: clamp(36px, 5vw, 56px);
+      letter-spacing: -0.045em;
+    }
+
+    .about-copy {
+      margin: 0;
+      color: #c3ccd7;
+      font-size: clamp(20px, 2vw, 25px);
+      line-height: 1.6;
+    }
+
+    /* Footer */
+
+    .footer {
+      display: flex;
+      justify-content: space-between;
+      gap: 32px;
+      padding: 44px 0 54px;
+      color: var(--muted);
+      font-size: 14px;
+    }
+
+    .footer p {
+      margin: 0;
+    }
+
+    .footer-links {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+      gap: 20px;
+    }
+
+    .footer a {
+      color: var(--muted);
+      text-decoration: none;
+    }
+
+    .footer a:hover {
+      color: var(--text);
+    }
+
+    /* Mobile */
+
+    @media (max-width: 760px) {
+      .wrap {
+        width: min(calc(100% - 32px), var(--max));
+      }
+
+      .header {
+        min-height: 70px;
+      }
+
+      .nav {
+        gap: 16px;
+      }
+
+      .nav a {
+        font-size: 14px;
+      }
+
+      .hero {
+        padding: 82px 0 76px;
+      }
+
+      h1 {
+        font-size: clamp(50px, 16vw, 72px);
+      }
+
+      .section {
+        padding: 72px 0;
+      }
+
+      .section-head {
+        display: block;
+      }
+
+      .section-head p {
+        margin-top: 18px;
+      }
+
+      .games {
+        grid-template-columns: 1fr;
+      }
+
+      .card {
+        min-height: 310px;
+        padding: 28px;
+        border-radius: 20px;
+      }
+
+      .math-card {
+        min-height: 280px;
+      }
+
+      .about-grid {
+        grid-template-columns: 1fr;
+        gap: 28px;
+      }
+
+      .footer {
+        flex-direction: column;
+      }
+
+      .footer-links {
+        justify-content: flex-start;
+      }
+    }
+
+    @media (max-width: 480px) {
+      .nav a:first-child {
+        display: none;
+      }
+
+      .hero-copy {
+        font-size: 18px;
+      }
+
+      .card p {
+        font-size: 17px;
+      }
     }
   </style>
 </head>
+
 <body>
-  <div class="wrap">
-    <h1>Jmath Studio</h1>
-    <p>We create mobile puzzle games and apps.</p>
 
-    <div class="section">
-      <p>Jmath Studio is an independent game studio focused on simple and intuitive puzzle experiences.</p>
-    </div>
+  <header class="header wrap">
+    <a class="brand" href="/">Jmath Studio</a>
 
-    <div class="section">
-      <h2>Featured Game</h2>
-      <p>Line To Spot</p>
-      <p>Connect matching colors without crossing lines.</p>
-      <a class="button" href="/LineToSpot/">View Line To Spot</a>
-    </div>
+    <nav class="nav" aria-label="Main navigation">
+      <a href="#games">Games</a>
+      <a href="#math">Math</a>
+      <a href="#about">About</a>
+    </nav>
+  </header>
 
-    <div class="section">
-      <p>Contact: contact@jmathstudio.com</p>
-      <div class="links">
-        <a href="/LineToSpot/privacy.html">Privacy Policy</a>
+  <main>
+
+    <section class="hero">
+      <div class="wrap">
+        <p class="eyebrow">Jmath Studio</p>
+
+        <h1>
+          Games, learning,<br />
+          and interactive experiences.
+        </h1>
+
+        <p class="hero-copy">
+          We create focused digital experiences built around
+          simple ideas, intuitive interaction, and learning.
+        </p>
       </div>
+    </section>
+
+    <section class="section" id="games">
+      <div class="wrap">
+
+        <div class="section-head">
+          <h2>Games</h2>
+          <p>
+            Simple puzzle experiences designed around clear rules
+            and intuitive interaction.
+          </p>
+        </div>
+
+        <div class="games">
+
+          <a class="card" href="/LineToSpot/">
+            <div>
+              <span class="card-type">Puzzle Game</span>
+              <h3>Line To Spot</h3>
+              <p>
+                Connect matching colors without crossing lines.
+                Find your own path through each puzzle.
+              </p>
+            </div>
+
+            <div class="card-link">
+              View Line To Spot <span>→</span>
+            </div>
+          </a>
+
+          <a class="card" href="/LineToSplit/">
+            <div>
+              <span class="card-type">Puzzle Game</span>
+              <h3>Line To Split</h3>
+              <p>
+                Draw a line across a silhouette and split the shape
+                as close as you can to the target ratio.
+              </p>
+            </div>
+
+            <div class="card-link">
+              View Line To Split <span>→</span>
+            </div>
+          </a>
+
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="math">
+      <div class="wrap">
+
+        <div class="section-head">
+          <h2>Math</h2>
+          <p>
+            Structured math learning with explanations,
+            examples, and interactive content.
+          </p>
+        </div>
+
+        <a
+          class="card math-card"
+          href="https://math.jmathstudio.com/"
+        >
+          <div>
+            <span class="card-type">Math Learning</span>
+            <h3>Jmath Math</h3>
+            <p>
+              Explore mathematics by subject and topic with
+              clear explanations, worked examples, and interactive tools.
+            </p>
+          </div>
+
+          <div class="card-link">
+            Visit Jmath Math <span>→</span>
+          </div>
+        </a>
+
+      </div>
+    </section>
+
+    <section class="section" id="about">
+      <div class="wrap about-grid">
+
+        <h2>About<br />Jmath Studio</h2>
+
+        <p class="about-copy">
+          Jmath Studio creates simple, focused digital experiences
+          for games and learning. We explore ideas that are easy to
+          understand, satisfying to interact with, and worth thinking about.
+        </p>
+
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="footer wrap">
+    <p>
+      © Jmath Studio
+      · contact@jmathstudio.com
+    </p>
+
+    <div class="footer-links">
+      <a href="/LineToSpot/">Line To Spot</a>
+      <a href="/LineToSplit/">Line To Split</a>
+      <a href="https://math.jmathstudio.com/">Math</a>
+      <a href="/LineToSpot/privacy.html">Line To Spot Privacy</a>
+      <a href="/LineToSplit/privacy.html">Line To Split Privacy</a>
     </div>
-  </div>
+  </footer>
+
 </body>
 </html>
