@@ -64,4 +64,29 @@ shutil.copytree(assets_src, assets_dst)
 for l in enabled:
  p=D/l['code'];p.mkdir(exist_ok=True);(p/'index.html').write_text(page(l['code']))
 (D/'sitemap.xml').write_text('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+''.join(f'<url><loc>{base}{l["code"]}/</loc></url>' for l in enabled)+'</urlset>')
+# Publish the generated site to the LineToSplit root for GitHub Pages.
+publish_items = [
+    'index.html',
+    'style.css',
+    'app.js',
+    'sitemap.xml',
+    'assets',
+    *[l['code'] for l in enabled],
+]
+
+for name in publish_items:
+    src = D / name
+    dst = R / name
+
+    if dst.exists():
+        if dst.is_dir():
+            shutil.rmtree(dst)
+        else:
+            dst.unlink()
+
+    if src.is_dir():
+        shutil.copytree(src, dst)
+    else:
+        shutil.copy2(src, dst)
+        
 print('Built English root and /en/; inactive translations are not published or advertised in hreflang.')
