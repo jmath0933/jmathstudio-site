@@ -1,0 +1,211 @@
+{
+  "metaTitle": "Line To Split — Juego de puzles para dividir figuras",
+
+  "metaDescription": "Dibuja una línea sobre una silueta y divídela según la proporción objetivo. Explora los modos Normal y Desafío de Line To Split. Descarga gratuita para iOS y Android. Contiene anuncios.",
+
+  "eyebrow": "Un juego de puzles para dividir figuras",
+
+  "tagline": [
+    "Dibuja la línea.",
+    "Ajusta la proporción."
+  ],
+
+  "intro": "Elige un tema que te guste, dibuja una línea sobre cada silueta y divídela lo más cerca posible de la proporción objetivo.",
+
+  "nav": [
+    "Cómo jugar",
+    "Capturas",
+    "Descargar"
+  ],
+
+  "howHeading": "Cómo jugar a Line To Split",
+
+  "how": [
+    [
+      "Elige un tema",
+      "Empieza con el tema que más te guste. Explora perros, gatos, peces, aves, el espacio, dinosaurios, instrumentos, herramientas, letras, números y mucho más.",
+      1
+    ],
+    [
+      "Divide la silueta",
+      "Cuando la imagen se convierta en una silueta, dibuja una línea y divide la figura lo más cerca posible de la proporción objetivo.",
+      3
+    ],
+    [
+      "Comprueba el resultado",
+      "Mira el resultado al instante. Comprueba qué tan cerca quedó tu división de la proporción objetivo. Si te alejaste demasiado, inténtalo de nuevo.",
+      5
+    ]
+  ],
+
+  "normalLabel": "Modo Normal",
+
+  "normalHeading": "Tres etapas. Divide paso a paso.",
+
+  "normalIntro": "Elige un tema que te guste y supera tres desafíos de división.",
+
+  "normalStages": [
+    [
+      "1:1",
+      "Empieza dividiendo la silueta en dos partes de igual área."
+    ],
+    [
+      "6:4 o 7:3",
+      "Prueba una división desigual y descubre cuánto espacio debería ocupar cada parte de la figura."
+    ],
+    [
+      "1:1:1",
+      "Divide la silueta en tres partes de igual área. Usa como guía la división que hiciste en la etapa 2."
+    ]
+  ],
+
+  "tip": "Usa como guía la división que hiciste en la etapa 2.",
+
+  "feedbackHeading": "Mira qué tan cerca estuviste.",
+
+  "feedback": [
+    [
+      "Perfecto",
+      "Da en el centro con un tiro Robin Hood.",
+      "perfect"
+    ],
+    [
+      "Acierto",
+      "Da en el blanco y sigue adelante.",
+      "hit"
+    ],
+    [
+      "Reintentar",
+      "¿Fallaste el blanco? Inténtalo de nuevo.",
+      "retry"
+    ]
+  ],
+
+  "stars": "Completa las tres etapas para conseguir de 1 a 3 estrellas.",
+
+  "unlockHeading": [
+    "¿Conseguiste 2 estrellas o más?",
+    "Te espera un nuevo desafío."
+  ],
+
+  "challengeLabel": "Modo Desafío",
+
+  "challengeHeading": "Pon a prueba tu sentido del área.",
+
+  "challengeIntro": "Consigue 2 estrellas o más en una etapa del Modo Normal para desbloquear su Modo Desafío.",
+
+  "challengeStages": [
+    [
+      "División aleatoria en dos partes",
+      "Divide la silueta según una proporción aleatoria de dos partes."
+    ],
+    [
+      "División aleatoria en tres partes",
+      "Enfréntate a una proporción aleatoria de tres partes y descubre qué tan cerca puedes llegar."
+    ]
+  ],
+
+  "challengeClosing": [
+    "No hay proporciones fijas que memorizar.",
+    "Confía en tu propio sentido del área."
+  ],
+
+  "moodHeading": "Un ambiente diferente",
+
+  "moodText": "El Modo Desafío ofrece un aspecto más oscuro y una banda sonora diferente.",
+
+  "galleryHeading": "Mira el juego más de cerca",
+
+  "galleryIntro": "Elige un tema, dibuja tu división y descubre qué tan cerca puedes llegar de la proporción objetivo.",
+
+  "galleryLabels": [
+    "Elige un tema",
+    "Un desafío 7:3",
+    "Dibuja tu división",
+    "Resultado en dos partes",
+    "Mide tu resultado",
+    "Un desafío 1:1:1",
+    "Dibuja dos líneas de división",
+    "Resultado en tres partes",
+    "Consigue tus estrellas",
+    "Explora el Modo Desafío"
+  ],
+
+  "imageAlts": [
+    "Selección de temas con gatos, perros, peces, aves, el espacio y dinosaurios.",
+    "Imagen de un gatito con una proporción objetivo de 7:3.",
+    "Una línea rosa curva sobre la silueta de un gatito con un objetivo de 7:3.",
+    "La silueta del gatito dividida en regiones de color verde menta y coral.",
+    "Dos regiones divididas con información de medición y relojes de arena.",
+    "Imagen de un perro con una proporción objetivo de 1:1:1.",
+    "Dos líneas rosas dibujadas sobre la silueta del perro.",
+    "La silueta del perro dividida en tres regiones de diferentes colores.",
+    "Pantalla de resultados del Modo Normal con dos estrellas debajo de un perro.",
+    "Selección de una etapa de dinosaurios en la interfaz negra y roja del Modo Desafío."
+  ],
+
+  "featuresHeading": "Una forma diferente de pensar en las figuras.",
+
+  "features": [
+    [
+      "Elige tus favoritos",
+      "Empieza con los temas que más te gusten: animales, el espacio, dinosaurios, instrumentos, herramientas, letras, números y mucho más."
+    ],
+    [
+      "Confía en tu sentido del área",
+      "Observa la figura, calcula visualmente el área y descubre qué tan cerca puedes llegar de la proporción objetivo."
+    ],
+    [
+      "No necesitas leer para jugar",
+      "Las sencillas indicaciones visuales, las proporciones y los controles intuitivos te permiten concentrarte en el puzle."
+    ]
+  ],
+
+  "faqHeading": "Preguntas frecuentes",
+
+  "faq": [
+    [
+      "¿Cómo se juega a Line To Split?",
+      "Elige un tema, espera a que la imagen se convierta en una silueta y dibuja una línea para dividirla lo más cerca posible de la proporción objetivo."
+    ],
+    [
+      "¿Qué pasa si mi división queda demasiado lejos del objetivo?",
+      "Puedes intentarlo de nuevo y ajustar la división."
+    ],
+    [
+      "¿Cómo funciona el Modo Normal?",
+      "El Modo Normal tiene tres etapas: 1:1, 6:4 o 7:3 y 1:1:1. Completa las tres etapas para conseguir de 1 a 3 estrellas."
+    ],
+    [
+      "¿Cómo desbloqueo el Modo Desafío?",
+      "Consigue 2 estrellas o más en una etapa del Modo Normal para desbloquear su Modo Desafío. Puedes cambiar de modo manualmente desde la pantalla de inicio del juego."
+    ],
+    [
+      "¿Qué tiene de diferente el Modo Desafío?",
+      "El Modo Desafío tiene dos etapas con proporciones objetivo aleatorias: primero una división en dos partes y después una división en tres. Es una oportunidad para poner a prueba tu propio sentido del área."
+    ]
+  ],
+
+  "downloadHeading": "¿Listo para dividir tu primera figura?",
+
+  "downloadCopy": "Elige una figura, confía en tu intuición y descubre qué tan cerca puedes llegar de la proporción objetivo.",
+
+  "downloadNote": "Descarga gratuita para iOS y Android. Contiene anuncios.",
+
+  "ui": {
+    "skip": "Saltar al contenido",
+    "language": "Idioma del sitio web",
+    "stage": "Etapa",
+    "tip": "Consejo",
+    "previous": "Capturas anteriores",
+    "next": "Capturas siguientes",
+    "galleryHelp": "Desliza o usa las flechas. Selecciona una captura para ampliarla.",
+    "view": "Ampliar",
+    "close": "Cerrar",
+    "screenshot": "Captura del juego",
+    "appStore": "Descargar en la App Store",
+    "googlePlay": "Disponible en Google Play",
+    "footer": "Desarrollado por JMath Studio.",
+    "promoAlt": "Imagen promocional de Line To Split: un perro, una silueta dividida en dos regiones y las palabras «Split the Shape»."
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "metaTitle": "Line To Split — Jogo de quebra-cabeça para dividir formas",
+
+  "metaDescription": "Desenhe uma linha sobre uma silhueta e divida-a o mais próximo possível da proporção desejada. Explore os modos Normal e Desafio de Line To Split. Grátis para iOS e Android. Contém anúncios.",
+
+  "eyebrow": "Um jogo de quebra-cabeça para dividir formas",
+
+  "tagline": [
+    "Desenhe a linha.",
+    "Acerte a proporção."
+  ],
+
+  "intro": "Escolha um tema que você goste, desenhe uma linha sobre cada silhueta e divida-a o mais próximo possível da proporção desejada.",
+
+  "nav": [
+    "Como jogar",
+    "Capturas de tela",
+    "Baixar"
+  ],
+
+  "howHeading": "Como jogar Line To Split",
+
+  "how": [
+    [
+      "Escolha um tema",
+      "Comece com um tema que você goste. Explore cães, gatos, peixes, pássaros, espaço, dinossauros, instrumentos, ferramentas, letras, números e muito mais.",
+      1
+    ],
+    [
+      "Divida a silhueta",
+      "Quando a imagem se transformar em uma silhueta, desenhe uma linha e divida a forma o mais próximo possível da proporção desejada.",
+      3
+    ],
+    [
+      "Confira o resultado",
+      "Veja o resultado na hora. Confira o quanto sua divisão se aproximou da proporção desejada. Se ficar muito longe, tente novamente.",
+      5
+    ]
+  ],
+
+  "normalLabel": "Modo Normal",
+
+  "normalHeading": "Três etapas. Divida passo a passo.",
+
+  "normalIntro": "Escolha um tema que você goste e complete três desafios de divisão.",
+
+  "normalStages": [
+    [
+      "1:1",
+      "Comece dividindo a silhueta em duas partes de mesma área."
+    ],
+    [
+      "6:4 ou 7:3",
+      "Encare uma divisão desigual e desenvolva uma noção de quanto da forma cada parte deve ocupar."
+    ],
+    [
+      "1:1:1",
+      "Divida a silhueta em três partes de mesma área. Use a divisão que você fez na etapa 2 como referência."
+    ]
+  ],
+
+  "tip": "Use a divisão que você fez na etapa 2 como referência.",
+
+  "feedbackHeading": "Veja o quanto você se aproximou.",
+
+  "feedback": [
+    [
+      "Perfeito",
+      "Acerte em cheio com um tiro à la Robin Hood.",
+      "perfect"
+    ],
+    [
+      "Acertou",
+      "Acerte o alvo e siga em frente.",
+      "hit"
+    ],
+    [
+      "Tentar novamente",
+      "Errou o alvo? Tente mais uma vez.",
+      "retry"
+    ]
+  ],
+
+  "stars": "Complete as três etapas para ganhar de 1 a 3 estrelas.",
+
+  "unlockHeading": [
+    "Conseguiu 2 estrelas ou mais?",
+    "Um novo desafio espera por você."
+  ],
+
+  "challengeLabel": "Modo Desafio",
+
+  "challengeHeading": "Coloque sua noção de área à prova.",
+
+  "challengeIntro": "Ganhe 2 estrelas ou mais em uma etapa do Modo Normal para desbloquear o Modo Desafio dessa etapa.",
+
+  "challengeStages": [
+    [
+      "Divisão aleatória em duas partes",
+      "Divida a silhueta de acordo com uma proporção aleatória de duas partes."
+    ],
+    [
+      "Divisão aleatória em três partes",
+      "Encare uma proporção aleatória de três partes e veja o quanto você consegue se aproximar."
+    ]
+  ],
+
+  "challengeClosing": [
+    "Nenhuma proporção fixa para memorizar.",
+    "Confie na sua própria noção de área."
+  ],
+
+  "moodHeading": "Um clima diferente",
+
+  "moodText": "O Modo Desafio traz um visual mais escuro e uma trilha sonora diferente.",
+
+  "galleryHeading": "Veja o jogo mais de perto",
+
+  "galleryIntro": "Escolha um tema, desenhe sua divisão e veja o quanto você consegue se aproximar da proporção desejada.",
+
+  "galleryLabels": [
+    "Escolha um tema",
+    "Um desafio 7:3",
+    "Desenhe sua divisão",
+    "Resultado em duas partes",
+    "Meça seu resultado",
+    "Um desafio 1:1:1",
+    "Desenhe duas linhas de divisão",
+    "Resultado em três partes",
+    "Ganhe suas estrelas",
+    "Explore o Modo Desafio"
+  ],
+
+  "imageAlts": [
+    "Seleção de temas com gatos, cães, peixes, pássaros, espaço e dinossauros.",
+    "Imagem de um gatinho com proporção desejada de 7:3.",
+    "Uma linha rosa curva sobre a silhueta de um gatinho com uma proporção desejada de 7:3.",
+    "A silhueta do gatinho dividida em regiões verde-menta e coral.",
+    "Duas regiões divididas com feedback de medição e ampulhetas.",
+    "Imagem de um cão com proporção desejada de 1:1:1.",
+    "Duas linhas rosas desenhadas sobre a silhueta do cão.",
+    "A silhueta do cão dividida em três regiões coloridas.",
+    "Tela de resultado do Modo Normal mostrando duas estrelas abaixo de um cão.",
+    "Seleção de uma etapa de dinossauros na interface preta e vermelha do Modo Desafio."
+  ],
+
+  "featuresHeading": "Uma maneira diferente de pensar nas formas.",
+
+  "features": [
+    [
+      "Escolha seus favoritos",
+      "Comece com os temas que você mais gosta — de animais e espaço a dinossauros, instrumentos, ferramentas, letras, números e muito mais."
+    ],
+    [
+      "Confie na sua noção de área",
+      "Observe a forma, estime as áreas e veja o quanto você consegue se aproximar da proporção desejada."
+    ],
+    [
+      "Não é preciso ler para jogar",
+      "Indicações visuais simples, proporções e controles intuitivos permitem que você se concentre no quebra-cabeça."
+    ]
+  ],
+
+  "faqHeading": "Perguntas frequentes",
+
+  "faq": [
+    [
+      "Como jogar Line To Split?",
+      "Escolha um tema, espere a imagem se transformar em uma silhueta e desenhe uma linha para dividi-la o mais próximo possível da proporção desejada."
+    ],
+    [
+      "O que acontece se minha divisão ficar muito longe da proporção desejada?",
+      "Você pode tentar novamente e ajustar sua divisão."
+    ],
+    [
+      "Como funciona o Modo Normal?",
+      "O Modo Normal tem três etapas: 1:1, 6:4 ou 7:3 e 1:1:1. Complete as três etapas para ganhar de 1 a 3 estrelas."
+    ],
+    [
+      "Como desbloquear o Modo Desafio?",
+      "Ganhe 2 estrelas ou mais em uma etapa do Modo Normal para desbloquear o Modo Desafio dessa etapa. Você pode alternar os modos manualmente pela tela inicial do jogo."
+    ],
+    [
+      "O que há de diferente no Modo Desafio?",
+      "O Modo Desafio tem duas etapas com proporções aleatórias: primeiro uma divisão em duas partes e depois uma divisão em três partes. É uma oportunidade de colocar sua própria noção de área à prova."
+    ]
+  ],
+
+  "downloadHeading": "Pronto para dividir sua primeira forma?",
+
+  "downloadCopy": "Escolha uma forma, confie na sua percepção e veja o quanto você consegue se aproximar da proporção desejada.",
+
+  "downloadNote": "Grátis para baixar no iOS e Android. Contém anúncios.",
+
+  "ui": {
+    "skip": "Ir para o conteúdo",
+    "language": "Idioma do site",
+    "stage": "Etapa",
+    "tip": "Dica",
+    "previous": "Capturas anteriores",
+    "next": "Próximas capturas",
+    "galleryHelp": "Deslize ou use as setas. Selecione uma captura de tela para ampliá-la.",
+    "view": "Ampliar",
+    "close": "Fechar",
+    "screenshot": "Captura de tela do jogo",
+    "appStore": "Baixar na App Store",
+    "googlePlay": "Disponível no Google Play",
+    "footer": "Desenvolvido pela JMath Studio.",
+    "promoAlt": "Imagem promocional de Line To Split: um cão, uma silhueta dividida em duas regiões e as palavras “Split the Shape”."
+  }
+}

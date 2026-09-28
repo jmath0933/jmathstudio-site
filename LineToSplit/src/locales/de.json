@@ -1,0 +1,211 @@
+{
+  "metaTitle": "Line To Split — Puzzle zum Teilen von Formen",
+
+  "metaDescription": "Ziehe eine Linie durch eine Silhouette und teile sie möglichst genau im vorgegebenen Verhältnis. Entdecke den Normal- und Herausforderungsmodus von Line To Split. Kostenlos für iOS und Android. Enthält Werbung.",
+
+  "eyebrow": "Ein Puzzle zum Teilen von Formen",
+
+  "tagline": [
+    "Zieh die Linie.",
+    "Triff das Verhältnis."
+  ],
+
+  "intro": "Wähle ein Thema, das dir gefällt, ziehe eine Linie durch jede Silhouette und teile sie möglichst genau im vorgegebenen Verhältnis.",
+
+  "nav": [
+    "Spielanleitung",
+    "Screenshots",
+    "Download"
+  ],
+
+  "howHeading": "So spielst du Line To Split",
+
+  "how": [
+    [
+      "Wähle ein Thema",
+      "Starte mit einem Thema, das dir gefällt. Entdecke Hunde, Katzen, Fische, Vögel, den Weltraum, Dinosaurier, Instrumente, Werkzeuge, Buchstaben, Zahlen und vieles mehr.",
+      1
+    ],
+    [
+      "Teile die Silhouette",
+      "Sobald das Bild zu einer Silhouette wird, ziehst du eine Linie und teilst die Form möglichst genau im vorgegebenen Verhältnis.",
+      3
+    ],
+    [
+      "Sieh dir dein Ergebnis an",
+      "Überprüfe dein Ergebnis sofort und sieh, wie nah deine Teilung am Zielverhältnis liegt. Ist die Abweichung zu groß, versuche es noch einmal.",
+      5
+    ]
+  ],
+
+  "normalLabel": "Normalmodus",
+
+  "normalHeading": "Drei Stufen. Schritt für Schritt teilen.",
+
+  "normalIntro": "Wähle ein Thema, das dir gefällt, und meistere drei Aufgaben zum Teilen der Form.",
+
+  "normalStages": [
+    [
+      "1:1",
+      "Teile die Silhouette zunächst in zwei gleich große Flächen."
+    ],
+    [
+      "6:4 oder 7:3",
+      "Probiere eine ungleiche Teilung aus und entwickle ein Gefühl dafür, wie viel Fläche jeder Teil einnehmen sollte."
+    ],
+    [
+      "1:1:1",
+      "Teile die Silhouette in drei gleich große Flächen. Nutze deine Teilung aus Stufe 2 als Orientierung."
+    ]
+  ],
+
+  "tip": "Nutze deine Teilung aus Stufe 2 als Orientierung.",
+
+  "feedbackHeading": "Sieh, wie nah du am Ziel liegst.",
+
+  "feedback": [
+    [
+      "Perfekt",
+      "Triff genau ins Schwarze – wie bei einem Robin-Hood-Schuss.",
+      "perfect"
+    ],
+    [
+      "Treffer",
+      "Triff das Ziel und mach weiter.",
+      "hit"
+    ],
+    [
+      "Nochmal",
+      "Ziel verfehlt? Versuch es noch einmal.",
+      "retry"
+    ]
+  ],
+
+  "stars": "Schließe alle drei Stufen ab und erhalte 1 bis 3 Sterne.",
+
+  "unlockHeading": [
+    "2 oder mehr Sterne erreicht?",
+    "Eine neue Herausforderung wartet."
+  ],
+
+  "challengeLabel": "Herausforderungsmodus",
+
+  "challengeHeading": "Teste dein Gefühl für Flächen.",
+
+  "challengeIntro": "Erreiche in einer Stufe des Normalmodus mindestens 2 Sterne, um den Herausforderungsmodus dieser Stufe freizuschalten.",
+
+  "challengeStages": [
+    [
+      "Zufällige Teilung in zwei Teile",
+      "Teile die Silhouette nach einem zufällig vorgegebenen Verhältnis in zwei Teile."
+    ],
+    [
+      "Zufällige Teilung in drei Teile",
+      "Stelle dich einem zufällig vorgegebenen Verhältnis aus drei Teilen und sieh, wie nah du herankommst."
+    ]
+  ],
+
+  "challengeClosing": [
+    "Keine festen Verhältnisse zum Auswendiglernen.",
+    "Vertrau auf dein eigenes Gefühl für Flächen."
+  ],
+
+  "moodHeading": "Eine andere Atmosphäre",
+
+  "moodText": "Der Herausforderungsmodus bietet einen dunkleren Look und einen anderen Soundtrack.",
+
+  "galleryHeading": "Sieh dir das Spiel genauer an",
+
+  "galleryIntro": "Wähle ein Thema, ziehe deine Trennlinie und sieh, wie nah du an das Zielverhältnis herankommst.",
+
+  "galleryLabels": [
+    "Wähle ein Thema",
+    "Eine 7:3-Herausforderung",
+    "Ziehe deine Trennlinie",
+    "Ergebnis der Zweiteilung",
+    "Überprüfe dein Ergebnis",
+    "Eine 1:1:1-Herausforderung",
+    "Ziehe zwei Trennlinien",
+    "Ergebnis der Dreiteilung",
+    "Verdiene deine Sterne",
+    "Entdecke den Herausforderungsmodus"
+  ],
+
+  "imageAlts": [
+    "Themenauswahl mit Katzen, Hunden, Fischen, Vögeln, Weltraum und Dinosauriern.",
+    "Bild eines Kätzchens mit einem Zielverhältnis von 7:3.",
+    "Eine geschwungene rosa Linie über der Silhouette eines Kätzchens mit dem Zielverhältnis 7:3.",
+    "Die Silhouette des Kätzchens ist in mintgrüne und korallfarbene Bereiche geteilt.",
+    "Zwei geteilte Bereiche mit Messergebnis und Sanduhren.",
+    "Bild eines Hundes mit einem Zielverhältnis von 1:1:1.",
+    "Zwei rosa Linien über der Silhouette des Hundes.",
+    "Die Silhouette des Hundes ist in drei verschiedenfarbige Bereiche geteilt.",
+    "Ergebnisbildschirm des Normalmodus mit zwei Sternen unter einem Hund.",
+    "Dinosaurier-Stufenauswahl in der schwarz-roten Oberfläche des Herausforderungsmodus."
+  ],
+
+  "featuresHeading": "Eine andere Art, Formen zu betrachten.",
+
+  "features": [
+    [
+      "Wähle deine Favoriten",
+      "Starte mit den Themen, die dir gefallen – von Tieren und Weltraum bis zu Dinosauriern, Instrumenten, Werkzeugen, Buchstaben, Zahlen und mehr."
+    ],
+    [
+      "Vertrau auf dein Flächengefühl",
+      "Betrachte die Form, schätze die Flächen ein und sieh, wie nah du an das Zielverhältnis herankommst."
+    ],
+    [
+      "Spielen ohne Lesen",
+      "Einfache visuelle Hinweise, Verhältnisse und intuitive Steuerung lassen dich ganz auf das Puzzle konzentrieren."
+    ]
+  ],
+
+  "faqHeading": "Häufig gestellte Fragen",
+
+  "faq": [
+    [
+      "Wie spielt man Line To Split?",
+      "Wähle ein Thema, warte, bis das Bild zu einer Silhouette wird, und ziehe dann eine Linie, um sie möglichst genau im vorgegebenen Verhältnis zu teilen."
+    ],
+    [
+      "Was passiert, wenn meine Teilung zu weit vom Zielverhältnis entfernt ist?",
+      "Du kannst es noch einmal versuchen und deine Teilung anpassen."
+    ],
+    [
+      "Wie funktioniert der Normalmodus?",
+      "Der Normalmodus besteht aus drei Stufen: 1:1, 6:4 oder 7:3 und 1:1:1. Schließe alle drei Stufen ab, um 1 bis 3 Sterne zu erhalten."
+    ],
+    [
+      "Wie schalte ich den Herausforderungsmodus frei?",
+      "Erreiche in einer Stufe des Normalmodus mindestens 2 Sterne, um den Herausforderungsmodus dieser Stufe freizuschalten. Du kannst den Modus auf dem Startbildschirm des Spiels manuell wechseln."
+    ],
+    [
+      "Was ist im Herausforderungsmodus anders?",
+      "Der Herausforderungsmodus besteht aus zwei Stufen mit zufälligen Zielverhältnissen: zuerst eine Teilung in zwei Teile, danach eine Teilung in drei Teile. Hier kannst du dein eigenes Gefühl für Flächen testen."
+    ]
+  ],
+
+  "downloadHeading": "Bereit, deine erste Form zu teilen?",
+
+  "downloadCopy": "Wähle eine Form, vertrau deinem Gefühl und sieh, wie nah du an das Zielverhältnis herankommst.",
+
+  "downloadNote": "Kostenlos für iOS und Android. Enthält Werbung.",
+
+  "ui": {
+    "skip": "Zum Inhalt springen",
+    "language": "Website-Sprache",
+    "stage": "Stufe",
+    "tip": "Tipp",
+    "previous": "Vorherige Screenshots",
+    "next": "Nächste Screenshots",
+    "galleryHelp": "Wische oder nutze die Pfeile. Wähle einen Screenshot aus, um ihn zu vergrößern.",
+    "view": "Vergrößern",
+    "close": "Schließen",
+    "screenshot": "Screenshot aus dem Spiel",
+    "appStore": "Laden im App Store",
+    "googlePlay": "Jetzt bei Google Play",
+    "footer": "Entwickelt von JMath Studio.",
+    "promoAlt": "Line To Split-Werbegrafik: ein Hund, eine in zwei Bereiche geteilte Silhouette und der Text „Split the Shape“."
+  }
+}

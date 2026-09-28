@@ -1,0 +1,176 @@
+{
+  "metaTitle": "Line To Split — Shape-Splitting Puzzle Game",
+  "metaDescription": "Draw a line across a silhouette and match the target ratio. Explore Normal and Challenge modes in Line To Split. Free on iOS and Android. Contains ads.",
+  "eyebrow": "A shape-splitting puzzle game",
+  "tagline": [
+    "Draw the line.",
+    "Match the ratio."
+  ],
+  "intro": "Choose a theme you like, draw a line across each silhouette, and split it as close as you can to the target ratio.",
+  "nav": [
+    "How to play",
+    "Screenshots",
+    "Download"
+  ],
+  "howHeading": "How to play Line To Split",
+  "how": [
+    [
+      "Choose a theme",
+      "Start with a theme you like. Explore dogs, cats, fish, birds, space, dinosaurs, instruments, tools, letters and numbers, and more.",
+      1
+    ],
+    [
+      "Split the silhouette",
+      "When the image turns into a silhouette, draw a line and split the shape as close as you can to the target ratio.",
+      3
+    ],
+    [
+      "See how you did",
+      "Check your result right away. See how close your split is to the target. If it’s too far off, try again.",
+      5
+    ]
+  ],
+  "normalLabel": "Normal Mode",
+  "normalHeading": "Three stages. Split it step by step.",
+  "normalIntro": "Choose a theme you like and work through three split challenges.",
+  "normalStages": [
+    [
+      "1:1",
+      "Start by splitting the silhouette into two equal parts."
+    ],
+    [
+      "6:4 or 7:3",
+      "Take on an uneven split and get a feel for how much of the shape each part should take."
+    ],
+    [
+      "1:1:1",
+      "Split the silhouette into three equal parts. Use the split you made in Stage 2 as a guide."
+    ]
+  ],
+  "tip": "Use your Stage 2 split as a guide.",
+  "feedbackHeading": "See how close you got.",
+  "feedback": [
+    [
+      "Perfect",
+      "Hit the mark with a Robin Hood shot.",
+      "perfect"
+    ],
+    [
+      "Hit",
+      "Hit the target and move on.",
+      "hit"
+    ],
+    [
+      "Retry",
+      "Miss the target? Take another shot.",
+      "retry"
+    ]
+  ],
+  "stars": "Complete all three stages to earn 1 to 3 stars.",
+  "unlockHeading": [
+    "Earn 2 or more stars?",
+    "A new challenge awaits."
+  ],
+  "challengeLabel": "Challenge Mode",
+  "challengeHeading": "Put your sense of area to the test.",
+  "challengeIntro": "Earn 2 or more stars on a stage in Normal Mode to unlock its Challenge Mode.",
+  "challengeStages": [
+    [
+      "Random two-way split",
+      "Split the silhouette into a randomly given two-part ratio."
+    ],
+    [
+      "Random three-way split",
+      "Take on a randomly given three-part ratio and see how close you can get."
+    ]
+  ],
+  "challengeClosing": [
+    "No fixed ratios to memorize.",
+    "Trust your own sense of area."
+  ],
+  "moodHeading": "A different mood",
+  "moodText": "Challenge Mode brings a darker look and a different soundtrack.",
+  "galleryHeading": "Take a closer look",
+  "galleryIntro": "Choose a theme, draw your split, and see how close you can get.",
+  "galleryLabels": [
+    "Choose a theme",
+    "A 7:3 challenge",
+    "Draw your split",
+    "Two-part result",
+    "Measure your result",
+    "A 1:1:1 challenge",
+    "Draw two split lines",
+    "Three-part result",
+    "Earn your stars",
+    "Explore Challenge Mode"
+  ],
+  "imageAlts": [
+    "Theme selection with cats, dogs, fish, birds, space and dinosaurs.",
+    "A kitten image with a 7:3 target ratio.",
+    "A curved pink line across a kitten silhouette with a 7:3 target.",
+    "The kitten silhouette divided into mint and coral regions.",
+    "Two split regions with measurement feedback and hourglasses.",
+    "A dog image with a 1:1:1 target ratio.",
+    "Two pink lines drawn across the dog silhouette.",
+    "The dog silhouette divided into three colored regions.",
+    "Normal Mode result screen showing two stars beneath a dog.",
+    "Dinosaur stage selection in Challenge Mode’s black and red interface."
+  ],
+  "featuresHeading": "A different way to think about shapes.",
+  "features": [
+    [
+      "Choose your favorites",
+      "Start with the themes you like — from animals and space to dinosaurs, instruments, tools, letters and numbers, and more."
+    ],
+    [
+      "Trust your sense of area",
+      "Look at the shape, judge the area, and see how closely you can match the target ratio."
+    ],
+    [
+      "No reading required",
+      "Simple visual cues, ratios, and intuitive controls let you focus on the puzzle."
+    ]
+  ],
+  "faqHeading": "Frequently asked questions",
+  "faq": [
+    [
+      "How do you play Line To Split?",
+      "Choose a theme, wait for the image to turn into a silhouette, then draw a line to split it as close as you can to the target ratio."
+    ],
+    [
+      "What happens if my split is too far from the target?",
+      "You can try again and adjust your split."
+    ],
+    [
+      "How does Normal Mode work?",
+      "Normal Mode has three stages: 1:1, 6:4 or 7:3, and 1:1:1. Complete all three stages to earn 1 to 3 stars."
+    ],
+    [
+      "How do I unlock Challenge Mode?",
+      "Earn 2 or more stars on a stage in Normal Mode to unlock its Challenge Mode. Switch modes manually from the game’s home screen."
+    ],
+    [
+      "What is different about Challenge Mode?",
+      "Challenge Mode has two stages with random target ratios: a two-way split followed by a three-way split. It’s a chance to test your own sense of area."
+    ]
+  ],
+  "downloadHeading": "Ready to split your first shape?",
+  "downloadCopy": "Pick a shape, trust your eye, and see how close you can get.",
+  "downloadNote": "Free to download on iOS and Android. Contains ads.",
+  "ui": {
+    "skip": "Skip to content",
+    "language": "Website language",
+    "stage": "Stage",
+    "tip": "Tip",
+    "previous": "Previous screenshots",
+    "next": "Next screenshots",
+    "galleryHelp": "Swipe or use the arrows. Select a screenshot to enlarge it.",
+    "view": "Enlarge",
+    "close": "Close",
+    "screenshot": "Game screenshot",
+    "appStore": "Download on the",
+    "googlePlay": "Get it on",
+    "footer": "Developed by JMath Studio.",
+    "promoAlt": "Line To Split promotional artwork: a dog, a silhouette divided into two regions, and the words Split the Shape."
+  }
+}

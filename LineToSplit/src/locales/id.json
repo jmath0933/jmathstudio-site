@@ -1,0 +1,211 @@
+{
+  "metaTitle": "Line To Split — Game Puzzle Membagi Bentuk",
+
+  "metaDescription": "Gambar garis pada siluet dan bagi bentuk sedekat mungkin dengan rasio target. Jelajahi Mode Normal dan Mode Tantangan di Line To Split. Gratis di iOS dan Android. Mengandung iklan.",
+
+  "eyebrow": "Game puzzle membagi bentuk",
+
+  "tagline": [
+    "Gambar garisnya.",
+    "Cocokkan rasionya."
+  ],
+
+  "intro": "Pilih tema yang kamu suka, gambar garis pada setiap siluet, lalu bagi bentuk sedekat mungkin dengan rasio target.",
+
+  "nav": [
+    "Cara bermain",
+    "Tangkapan layar",
+    "Unduh"
+  ],
+
+  "howHeading": "Cara bermain Line To Split",
+
+  "how": [
+    [
+      "Pilih tema",
+      "Mulai dengan tema yang kamu suka. Jelajahi anjing, kucing, ikan, burung, luar angkasa, dinosaurus, alat musik, perkakas, huruf, angka, dan masih banyak lagi.",
+      1
+    ],
+    [
+      "Bagi siluet",
+      "Saat gambar berubah menjadi siluet, gambar sebuah garis dan bagi bentuk sedekat mungkin dengan rasio target.",
+      3
+    ],
+    [
+      "Lihat hasilnya",
+      "Lihat hasilmu langsung. Periksa seberapa dekat pembagianmu dengan rasio target. Jika terlalu jauh, coba lagi.",
+      5
+    ]
+  ],
+
+  "normalLabel": "Mode Normal",
+
+  "normalHeading": "Tiga tahap. Bagi langkah demi langkah.",
+
+  "normalIntro": "Pilih tema yang kamu suka dan selesaikan tiga tantangan pembagian.",
+
+  "normalStages": [
+    [
+      "1:1",
+      "Mulailah dengan membagi siluet menjadi dua bagian dengan luas yang sama."
+    ],
+    [
+      "6:4 atau 7:3",
+      "Coba pembagian yang tidak sama dan rasakan seberapa besar luas yang seharusnya ditempati setiap bagian."
+    ],
+    [
+      "1:1:1",
+      "Bagi siluet menjadi tiga bagian dengan luas yang sama. Gunakan pembagian yang kamu buat di tahap 2 sebagai panduan."
+    ]
+  ],
+
+  "tip": "Gunakan pembagian yang kamu buat di tahap 2 sebagai panduan.",
+
+  "feedbackHeading": "Lihat seberapa dekat hasilmu.",
+
+  "feedback": [
+    [
+      "Sempurna",
+      "Tepat sasaran dengan tembakan ala Robin Hood.",
+      "perfect"
+    ],
+    [
+      "Kena",
+      "Kenai sasaran dan lanjutkan.",
+      "hit"
+    ],
+    [
+      "Coba lagi",
+      "Meleset dari sasaran? Coba sekali lagi.",
+      "retry"
+    ]
+  ],
+
+  "stars": "Selesaikan ketiga tahap untuk mendapatkan 1 hingga 3 bintang.",
+
+  "unlockHeading": [
+    "Mendapatkan 2 bintang atau lebih?",
+    "Tantangan baru menantimu."
+  ],
+
+  "challengeLabel": "Mode Tantangan",
+
+  "challengeHeading": "Uji kepekaanmu terhadap luas.",
+
+  "challengeIntro": "Dapatkan 2 bintang atau lebih pada sebuah tahap di Mode Normal untuk membuka Mode Tantangan pada tahap tersebut.",
+
+  "challengeStages": [
+    [
+      "Pembagian acak menjadi dua bagian",
+      "Bagi siluet berdasarkan rasio dua bagian yang diberikan secara acak."
+    ],
+    [
+      "Pembagian acak menjadi tiga bagian",
+      "Hadapi rasio tiga bagian yang diberikan secara acak dan lihat seberapa dekat hasilmu."
+    ]
+  ],
+
+  "challengeClosing": [
+    "Tidak ada rasio tetap yang perlu dihafalkan.",
+    "Percayai kepekaanmu terhadap luas."
+  ],
+
+  "moodHeading": "Suasana yang berbeda",
+
+  "moodText": "Mode Tantangan menghadirkan tampilan yang lebih gelap dan musik latar yang berbeda.",
+
+  "galleryHeading": "Lihat game lebih dekat",
+
+  "galleryIntro": "Pilih tema, gambar garis pembagianmu, dan lihat seberapa dekat kamu bisa mencapai rasio target.",
+
+  "galleryLabels": [
+    "Pilih tema",
+    "Tantangan 7:3",
+    "Gambar garis pembagian",
+    "Hasil pembagian dua bagian",
+    "Ukur hasilmu",
+    "Tantangan 1:1:1",
+    "Gambar dua garis pembagian",
+    "Hasil pembagian tiga bagian",
+    "Dapatkan bintang",
+    "Jelajahi Mode Tantangan"
+  ],
+
+  "imageAlts": [
+    "Pilihan tema dengan kucing, anjing, ikan, burung, luar angkasa, dan dinosaurus.",
+    "Gambar anak kucing dengan rasio target 7:3.",
+    "Garis merah muda melengkung pada siluet anak kucing dengan target 7:3.",
+    "Siluet anak kucing yang terbagi menjadi area hijau mint dan koral.",
+    "Dua area hasil pembagian dengan informasi pengukuran dan jam pasir.",
+    "Gambar anjing dengan rasio target 1:1:1.",
+    "Dua garis merah muda yang digambar pada siluet anjing.",
+    "Siluet anjing yang terbagi menjadi tiga area berwarna.",
+    "Layar hasil Mode Normal yang menampilkan dua bintang di bawah seekor anjing.",
+    "Pilihan tahap dinosaurus pada antarmuka hitam dan merah Mode Tantangan."
+  ],
+
+  "featuresHeading": "Cara berbeda untuk melihat bentuk.",
+
+  "features": [
+    [
+      "Pilih tema favoritmu",
+      "Mulai dengan tema yang kamu suka — dari hewan dan luar angkasa hingga dinosaurus, alat musik, perkakas, huruf, angka, dan masih banyak lagi."
+    ],
+    [
+      "Percayai kepekaanmu terhadap luas",
+      "Amati bentuknya, perkirakan luasnya, dan lihat seberapa dekat kamu bisa mencapai rasio target."
+    ],
+    [
+      "Bermain tanpa perlu membaca",
+      "Petunjuk visual yang sederhana, rasio, dan kontrol yang intuitif membuatmu bisa fokus pada puzzle."
+    ]
+  ],
+
+  "faqHeading": "Pertanyaan yang sering diajukan",
+
+  "faq": [
+    [
+      "Bagaimana cara bermain Line To Split?",
+      "Pilih tema, tunggu hingga gambar berubah menjadi siluet, lalu gambar garis untuk membaginya sedekat mungkin dengan rasio target."
+    ],
+    [
+      "Apa yang terjadi jika pembagian saya terlalu jauh dari rasio target?",
+      "Kamu bisa mencoba lagi dan menyesuaikan pembagianmu."
+    ],
+    [
+      "Bagaimana cara kerja Mode Normal?",
+      "Mode Normal memiliki tiga tahap: 1:1, 6:4 atau 7:3, dan 1:1:1. Selesaikan ketiga tahap untuk mendapatkan 1 hingga 3 bintang."
+    ],
+    [
+      "Bagaimana cara membuka Mode Tantangan?",
+      "Dapatkan 2 bintang atau lebih pada sebuah tahap di Mode Normal untuk membuka Mode Tantangan pada tahap tersebut. Kamu dapat mengganti mode secara manual dari layar utama game."
+    ],
+    [
+      "Apa yang berbeda dari Mode Tantangan?",
+      "Mode Tantangan memiliki dua tahap dengan rasio target acak: pertama pembagian menjadi dua bagian, lalu pembagian menjadi tiga bagian. Di sini kamu bisa menguji kepekaanmu sendiri terhadap luas."
+    ]
+  ],
+
+  "downloadHeading": "Siap membagi bentuk pertamamu?",
+
+  "downloadCopy": "Pilih sebuah bentuk, percayai instingmu, dan lihat seberapa dekat kamu bisa mencapai rasio target.",
+
+  "downloadNote": "Gratis untuk diunduh di iOS dan Android. Mengandung iklan.",
+
+  "ui": {
+    "skip": "Lewati ke konten",
+    "language": "Bahasa situs",
+    "stage": "Tahap",
+    "tip": "Tips",
+    "previous": "Tangkapan layar sebelumnya",
+    "next": "Tangkapan layar berikutnya",
+    "galleryHelp": "Geser atau gunakan tombol panah. Pilih tangkapan layar untuk memperbesarnya.",
+    "view": "Perbesar",
+    "close": "Tutup",
+    "screenshot": "Tangkapan layar game",
+    "appStore": "Unduh di App Store",
+    "googlePlay": "Dapatkan di Google Play",
+    "footer": "Dikembangkan oleh JMath Studio.",
+    "promoAlt": "Gambar promosi Line To Split: seekor anjing, siluet yang terbagi menjadi dua area, dan tulisan “Split the Shape”."
+  }
+}

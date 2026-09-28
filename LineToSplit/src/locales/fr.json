@@ -1,0 +1,211 @@
+{
+  "metaTitle": "Line To Split — Jeu de puzzle de découpage de formes",
+
+  "metaDescription": "Tracez une ligne sur une silhouette et divisez-la au plus près du ratio demandé. Découvrez les modes Normal et Défi de Line To Split. Téléchargement gratuit sur iOS et Android. Contient des publicités.",
+
+  "eyebrow": "Un jeu de puzzle de découpage de formes",
+
+  "tagline": [
+    "Tracez la ligne.",
+    "Respectez le ratio."
+  ],
+
+  "intro": "Choisissez un thème qui vous plaît, tracez une ligne sur chaque silhouette et divisez-la au plus près du ratio demandé.",
+
+  "nav": [
+    "Comment jouer",
+    "Captures d’écran",
+    "Télécharger"
+  ],
+
+  "howHeading": "Comment jouer à Line To Split",
+
+  "how": [
+    [
+      "Choisissez un thème",
+      "Commencez par un thème qui vous plaît. Découvrez des chiens, des chats, des poissons, des oiseaux, l’espace, des dinosaures, des instruments, des outils, des lettres, des chiffres et bien plus encore.",
+      1
+    ],
+    [
+      "Divisez la silhouette",
+      "Lorsque l’image devient une silhouette, tracez une ligne et divisez la forme au plus près du ratio demandé.",
+      3
+    ],
+    [
+      "Découvrez votre résultat",
+      "Consultez immédiatement votre résultat et voyez à quel point votre découpage se rapproche du ratio demandé. Si l’écart est trop important, réessayez.",
+      5
+    ]
+  ],
+
+  "normalLabel": "Mode Normal",
+
+  "normalHeading": "Trois étapes. Divisez pas à pas.",
+
+  "normalIntro": "Choisissez un thème qui vous plaît et relevez trois défis de découpage.",
+
+  "normalStages": [
+    [
+      "1:1",
+      "Commencez par diviser la silhouette en deux parties de même aire."
+    ],
+    [
+      "6:4 ou 7:3",
+      "Essayez un découpage inégal et estimez la part de la forme que chaque partie doit occuper."
+    ],
+    [
+      "1:1:1",
+      "Divisez la silhouette en trois parties de même aire. Servez-vous du découpage réalisé à l’étape 2 comme repère."
+    ]
+  ],
+
+  "tip": "Servez-vous du découpage réalisé à l’étape 2 comme repère.",
+
+  "feedbackHeading": "Voyez à quel point vous vous en êtes approché.",
+
+  "feedback": [
+    [
+      "Parfait",
+      "Faites mouche avec un tir façon Robin des Bois.",
+      "perfect"
+    ],
+    [
+      "Réussi",
+      "Touchez la cible et continuez.",
+      "hit"
+    ],
+    [
+      "Réessayer",
+      "Vous avez manqué la cible ? Essayez encore.",
+      "retry"
+    ]
+  ],
+
+  "stars": "Terminez les trois étapes pour obtenir de 1 à 3 étoiles.",
+
+  "unlockHeading": [
+    "Vous avez obtenu au moins 2 étoiles ?",
+    "Un nouveau défi vous attend."
+  ],
+
+  "challengeLabel": "Mode Défi",
+
+  "challengeHeading": "Mettez votre sens des aires à l’épreuve.",
+
+  "challengeIntro": "Obtenez au moins 2 étoiles dans une étape du Mode Normal pour débloquer son Mode Défi.",
+
+  "challengeStages": [
+    [
+      "Découpage aléatoire en deux parties",
+      "Divisez la silhouette selon un ratio aléatoire en deux parties."
+    ],
+    [
+      "Découpage aléatoire en trois parties",
+      "Relevez un défi avec un ratio aléatoire en trois parties et voyez à quel point vous pouvez vous en approcher."
+    ]
+  ],
+
+  "challengeClosing": [
+    "Aucun ratio fixe à mémoriser.",
+    "Fiez-vous à votre propre sens des aires."
+  ],
+
+  "moodHeading": "Une autre ambiance",
+
+  "moodText": "Le Mode Défi adopte une atmosphère plus sombre et une bande-son différente.",
+
+  "galleryHeading": "Découvrez le jeu de plus près",
+
+  "galleryIntro": "Choisissez un thème, tracez votre découpage et voyez à quel point vous pouvez vous rapprocher du ratio demandé.",
+
+  "galleryLabels": [
+    "Choisissez un thème",
+    "Un défi 7:3",
+    "Tracez votre découpage",
+    "Résultat en deux parties",
+    "Mesurez votre résultat",
+    "Un défi 1:1:1",
+    "Tracez deux lignes de découpage",
+    "Résultat en trois parties",
+    "Gagnez vos étoiles",
+    "Découvrez le Mode Défi"
+  ],
+
+  "imageAlts": [
+    "Sélection de thèmes avec des chats, des chiens, des poissons, des oiseaux, l’espace et des dinosaures.",
+    "Image d’un chaton avec un ratio cible de 7:3.",
+    "Une ligne rose incurvée tracée sur la silhouette d’un chaton avec un objectif de 7:3.",
+    "La silhouette du chaton divisée en deux zones, vert menthe et corail.",
+    "Deux zones découpées avec les mesures du résultat et des sabliers.",
+    "Image d’un chien avec un ratio cible de 1:1:1.",
+    "Deux lignes roses tracées sur la silhouette du chien.",
+    "La silhouette du chien divisée en trois zones colorées.",
+    "Écran de résultat du Mode Normal montrant deux étoiles sous un chien.",
+    "Sélection d’une étape sur le thème des dinosaures dans l’interface noire et rouge du Mode Défi."
+  ],
+
+  "featuresHeading": "Une autre façon de voir les formes.",
+
+  "features": [
+    [
+      "Choisissez vos thèmes préférés",
+      "Commencez avec les thèmes que vous aimez : animaux, espace, dinosaures, instruments, outils, lettres, chiffres et bien plus encore."
+    ],
+    [
+      "Fiez-vous à votre sens des aires",
+      "Observez la forme, estimez les aires et voyez à quel point vous pouvez vous rapprocher du ratio demandé."
+    ],
+    [
+      "Pas besoin de lire pour jouer",
+      "Des indications visuelles simples, des ratios et des commandes intuitives vous permettent de vous concentrer sur le puzzle."
+    ]
+  ],
+
+  "faqHeading": "Questions fréquentes",
+
+  "faq": [
+    [
+      "Comment jouer à Line To Split ?",
+      "Choisissez un thème, attendez que l’image devienne une silhouette, puis tracez une ligne pour la diviser au plus près du ratio demandé."
+    ],
+    [
+      "Que se passe-t-il si mon découpage est trop éloigné du ratio demandé ?",
+      "Vous pouvez réessayer et ajuster votre découpage."
+    ],
+    [
+      "Comment fonctionne le Mode Normal ?",
+      "Le Mode Normal comporte trois étapes : 1:1, 6:4 ou 7:3, puis 1:1:1. Terminez les trois étapes pour obtenir de 1 à 3 étoiles."
+    ],
+    [
+      "Comment débloquer le Mode Défi ?",
+      "Obtenez au moins 2 étoiles dans une étape du Mode Normal pour débloquer son Mode Défi. Vous pouvez changer de mode manuellement depuis l’écran d’accueil du jeu."
+    ],
+    [
+      "Quelle est la différence avec le Mode Défi ?",
+      "Le Mode Défi comporte deux étapes avec des ratios aléatoires : d’abord un découpage en deux parties, puis un découpage en trois parties. Il vous permet de mettre votre propre sens des aires à l’épreuve."
+    ]
+  ],
+
+  "downloadHeading": "Prêt à diviser votre première forme ?",
+
+  "downloadCopy": "Choisissez une forme, fiez-vous à votre intuition et voyez à quel point vous pouvez vous rapprocher du ratio demandé.",
+
+  "downloadNote": "Téléchargement gratuit sur iOS et Android. Contient des publicités.",
+
+  "ui": {
+    "skip": "Aller au contenu",
+    "language": "Langue du site",
+    "stage": "Étape",
+    "tip": "Astuce",
+    "previous": "Captures précédentes",
+    "next": "Captures suivantes",
+    "galleryHelp": "Faites glisser ou utilisez les flèches. Sélectionnez une capture d’écran pour l’agrandir.",
+    "view": "Agrandir",
+    "close": "Fermer",
+    "screenshot": "Capture d’écran du jeu",
+    "appStore": "Télécharger dans l’App Store",
+    "googlePlay": "Disponible sur Google Play",
+    "footer": "Développé par JMath Studio.",
+    "promoAlt": "Visuel promotionnel de Line To Split : un chien, une silhouette divisée en deux zones et les mots « Split the Shape »."
+  }
+}
